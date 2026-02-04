@@ -1,4 +1,4 @@
-# Mobile Phone Activity Data Analysis - Assignment 1
+# Mobile Phone Activity Data Analysis 
 
 ## Title: Analysis of Milan's Mobile Phone Activity Patterns Using CDR Data
 
